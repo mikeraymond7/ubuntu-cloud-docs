@@ -12,3 +12,4 @@ Some key topics needed to understand the public cloud images are discussed here.
    Confidential computing <confidential-computing>
    Cloud-init metapackages <cloud-init-metapackages>
    Architecture Variants <architecture-variants>
+   Kernels on the cloud <kernels-on-the-cloud>
