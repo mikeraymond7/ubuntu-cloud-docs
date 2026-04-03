@@ -13,4 +13,5 @@ These guides provide instructions for performing different operations related to
   
    Check CVE status of an image <check-cve-on-instance>
    Install NVIDIA drivers from proposed pocket for testing <install-proposed-nvidia-drivers-for-testing>
+   Migrate kernel variants <migrate-kernel-variants>
       
